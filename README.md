@@ -9,4 +9,4 @@
 * viñeta1
 * viñeta2
 
-  $$/sum_{n=1}^{N}{i}/N$$
+  $$\sum_{n=1}^{N}{i}/N$$
